@@ -1,3 +1,6 @@
 [submodule "opt/FreeRTOS-Kernel"]
 	path = opt/FreeRTOS-Kernel
 	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+[submodule "opt/FreeRTOS-Plus-TCP"]
+	path = opt/FreeRTOS-Plus-TCP
+	url = https://github.com/FreeRTOS/FreeRTOS-Plus-TCP.git
